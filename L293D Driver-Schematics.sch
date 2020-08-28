@@ -16098,7 +16098,6 @@ Part Number: HA-522</description>
 <wire x1="134.62" y1="76.2" x2="167.64" y2="76.2" width="0.1524" layer="91"/>
 <junction x="167.64" y="76.2"/>
 <pinref part="SUPPLY3" gate="1" pin="GND"/>
-<wire x1="195.58" y1="78.74" x2="195.58" y2="76.2" width="0.1524" layer="91"/>
 <wire x1="167.64" y1="76.2" x2="195.58" y2="76.2" width="0.1524" layer="91"/>
 <junction x="195.58" y="76.2"/>
 <pinref part="SUPPLY2" gate="1" pin="GND"/>
@@ -16131,6 +16130,7 @@ Part Number: HA-522</description>
 <wire x1="231.14" y1="63.5" x2="231.14" y2="76.2" width="0.1524" layer="91"/>
 <junction x="231.14" y="76.2"/>
 <pinref part="R2" gate="G$1" pin="1"/>
+<wire x1="195.58" y1="78.74" x2="195.58" y2="76.2" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$1" class="0">
