@@ -6,10 +6,8 @@
 
 ## Parts List
 <ol>
- <li><img src="images/Blue_connector.jpg"
-     alt="Connector used for Battery and Motors"
-     style="float: left; margin-right: 10px;" /></li>
- <li>**IC3**-LM317M</li>
+ <li>![alt text](images/Blue_connector.png "Title")</li>
+ <li> <b>IC3</b>-LM317M</li>
  <li></li>
 </ol>
 
