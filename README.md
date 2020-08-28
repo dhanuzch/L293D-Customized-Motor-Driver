@@ -7,7 +7,7 @@
 ## Parts List
 | Pic         | Used for    |
 | ----------- | ----------- |
-| <img src="/Images/Blue_connector.jpg" style="width:50px;height:50px;">     | Type of connector used for Batteries & Motors       |
+| <img src="/Images/Blue_connector.jpg" style="width:5px;height:5px;">     | Type of connector used for Batteries & Motors       |
 | Paragraph   | Text        |
 
 
