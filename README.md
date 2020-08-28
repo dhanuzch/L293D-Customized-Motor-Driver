@@ -6,7 +6,7 @@
 
 ## Parts List
 <ol>
- <li>![alt text](images/Blue_connector.png "Title")</li>
+ <li> ![alt text](images/Blue_connector.png "Title")</li>
  <li> <b>IC3</b>-LM317M</li>
  <li></li>
 </ol>
