@@ -9,7 +9,7 @@
  <li><img src="images/Blue_connector.jpg"
      alt="Connector used for Battery and Motors"
      style="float: left; margin-right: 10px;" /></li>
- <li></li>
+ <li>**IC3**-LM317M</li>
  <li></li>
 </ol>
 
