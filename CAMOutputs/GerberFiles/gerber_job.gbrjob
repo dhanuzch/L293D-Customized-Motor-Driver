@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2020-08-28T14:27:54Z",
+        "CreationDate": "2020-09-01T13:18:37Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -13,7 +13,7 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "Board2"
+            "ProjectId": "L293D Driver-Board"
         },
         "Owner": "Dhanush B <dhanush.mc18@bitsathy.ac.in>",
         "Size": {
