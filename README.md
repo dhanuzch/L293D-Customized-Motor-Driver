@@ -1,5 +1,6 @@
 
 # L293D Customized Motor Driver
+## CONTRIBUTE TO README
  
 **I've Zipped the gerber file for eazy use while ordering PCB. Enjoy!**
 
