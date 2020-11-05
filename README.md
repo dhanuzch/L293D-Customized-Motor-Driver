@@ -1,3 +1,4 @@
+
 # L293D Motor Driver
 This repo consists of a L293D based motor driver compatible with microcontrollers. The main motivation behind this project was because of unavailability of a motor driver that exactly fits in a custom made robot.
 
@@ -29,10 +30,12 @@ Just upload/give this file to online board houses such as JLCPCB or offline boar
 ## Specs
 |         |Min | Max |Unit|                        
 |----------------|-----|----|---|
-|Input voltage(VCC1)||5|V|
-|Input voltage(VCC2)|4.5|36|V|
+|Input voltage(Vcc1)|4.5|7|V|
+|Input voltage(Vcc2)|4.5|36|V|
 |Output current|-1|1|A|
 |Operating temperature|0|70|°C|
+*Vcc1* -  Voltage for internal logic translation
+*Vcc2* -  Voltage for drivers
 
 ## Disclaimer
 Using an offshelf L298N motor driver is a better option if you are dealing with motors that use more than 1A.
