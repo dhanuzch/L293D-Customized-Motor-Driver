@@ -24,9 +24,6 @@ Just upload/give this file to online board houses such as JLCPCB or offline boar
 |9|10uF SMD|**C5**|
 |10|Connectors-KF301|**X1**|
 
-
-
-
 ## Specs
 |         |Min | Max |Unit|                        
 |----------------|-----|----|---|
@@ -38,5 +35,7 @@ Just upload/give this file to online board houses such as JLCPCB or offline boar
 *Vcc1* -  Voltage for internal logic translation<br>
 *Vcc2* -  Voltage for drivers
 
+It is also advisable to use heatsink to increase the lifespan of the IC.
+
 ## Disclaimer
-Using an offshelf L298N motor driver is a better option if you are dealing with motors that use more than 1A.
+Using an offshelf L298N motor driver is a better option if you are dealing with motors that use more than 1A. 
