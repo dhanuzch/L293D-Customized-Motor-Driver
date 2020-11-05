@@ -38,4 +38,4 @@ Just upload/give this file to online board houses such as JLCPCB or offline boar
 It is also advisable to use heatsink to increase the lifespan of the IC.
 
 ## Disclaimer
-Using an offshelf L298N motor driver is a better option if you are dealing with motors that use more than 1A. 
+Using an offshelf L298N motor driver is a better option if you are dealing with motors that use more than 1A current. 
