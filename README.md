@@ -34,6 +34,7 @@ Just upload/give this file to online board houses such as JLCPCB or offline boar
 |Input voltage(Vcc2)|4.5|36|V|
 |Output current|-1|1|A|
 |Operating temperature|0|70|°C|
+
 *Vcc1* -  Voltage for internal logic translation
 *Vcc2* -  Voltage for drivers
 
