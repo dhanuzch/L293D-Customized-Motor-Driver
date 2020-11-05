@@ -1,0 +1,13 @@
+Partlist exported from /home/dhanuzch/EAGLE/projects/L293D-Customized-Motor-Driver/Board/L293D Driver.sch at 05/11/20 8:15 PM
+
+Qty Value       Device           Package      Parts      Description                                                                                                     MF MPN     OC_FARNELL OC_NEWARK PARTNUMBER POPULARITY PROD_ID   
+1               CONN_04PTH       1X04         J1         Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                                                       CONN-09696
+3               W237-102         W237-102     X1, X2, X3 WAGO SCREW CLAMP                                                                                                   237-102 unknown    70K9898              32                   
+1   0.1uF       C-EU075-052X106  C075-052X106 C3         CAPACITOR, European symbol                                                                                                                                                      
+1   10uF        CPOL-US085CS-1AR 085CS_1AR    C5         POLARIZED CAPACITOR, American symbol                                                                                                                                            
+2   1N4002      1N4004           DO41-10      D1, D2     DIODE                                                                                                                                                                           
+1   1uF         CPOL-US085CS-1AR 085CS_1AR    C4         POLARIZED CAPACITOR, American symbol                                                                                                                                            
+1   240Ω        R-US_M0805       M0805        R1         RESISTOR, American symbol                                                                                                                                                       
+1   720Ω        R-US_M0805       M0805        R2         RESISTOR, American symbol                                                                                                                                                       
+1   L293D       L293D            DIL16        IC1        PUSH-PULL 4 CHANNEL DRIVER                                                                                         L293D   9589619    56P8249              16                   
+1   LM317MBSTT3 LM317MBSTT3      SOT223       IC3        500 mA Adjustable Output Positive Voltage Regulator                                                                                             LM317M                          
