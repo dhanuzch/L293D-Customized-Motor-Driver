@@ -5,7 +5,7 @@ This repo consists of a L293D based motor driver compatible with microcontroller
 Just upload/give this file to online board houses such as JLCPCB or offline board houses, if you are intereseted in printing this PCB.
 
 # Files
- - **[Board](%28https://github.com/dhanuzch/L293D-Customized-Motor-Driver/edit/master/Board/)** consists of eagle *project, schematic and board files*
+ - **[Board](https://github.com/dhanuzch/L293D-Customized-Motor-Driver/edit/master/Board/)** consists of eagle *project, schematic and board files*
  - **[Images](https://github.com/dhanuzch/L293D-Customized-Motor-Driver/edit/master/Images/)** of board and schematics
  - **L293D_gerber.zip** pre-zipped so it is easy to print the PCBs
 
@@ -26,7 +26,7 @@ Just upload/give this file to online board houses such as JLCPCB or offline boar
 |         |Min | Max |Unit|                        
 |----------------|-----|----|---|
 |Input voltage(VCC1)||36|V|
-|Input voltage(V1)||7|
+|Input voltage(V1)||7|V|
 |Output current|-1|1|A|
 |Operating temperature|0|70|°C|
 
