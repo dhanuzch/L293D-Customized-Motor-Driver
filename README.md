@@ -30,7 +30,7 @@ Just upload/give this file to online board houses such as JLCPCB or offline boar
 |         |Min | Max |Unit|                        
 |----------------|-----|----|---|
 |Input voltage(VCC1)||5|V|
-|Input voltage(VCC2)||36|V|
+|Input voltage(VCC2)|4.5|36|V|
 |Output current|-1|1|A|
 |Operating temperature|0|70|°C|
 
